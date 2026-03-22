@@ -154,3 +154,5 @@ For those cases, write the message yourself. For everything else, let the machin
 ---
 
 **If this saves you time, [sponsor the project](https://github.com/sponsors/zacharylyonstx) ⚡**
+
+₿ Bitcoin: `bc1qshgk2p79jg34ax3lpywqj47fpcrqzsma95gesw`
