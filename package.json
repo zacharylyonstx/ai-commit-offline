@@ -1,5 +1,5 @@
 {
-  "name": "ai-commit-offline",
+  "name": "@zacharylyonstx/ai-commit-offline",
   "version": "1.0.0",
   "description": "AI-quality git commit messages. No API key. No cost. No internet. Works 100% offline using smart pattern analysis.",
   "main": "src/index.js",
@@ -54,5 +54,8 @@
     "src/",
     "LICENSE",
     "README.md"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
