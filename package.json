@@ -1,0 +1,58 @@
+{
+  "name": "ai-commit-offline",
+  "version": "1.0.0",
+  "description": "AI-quality git commit messages. No API key. No cost. No internet. Works 100% offline using smart pattern analysis.",
+  "main": "src/index.js",
+  "bin": {
+    "ai-commit": "bin/cli.js",
+    "ai-commit-offline": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "message",
+    "ai",
+    "offline",
+    "conventional-commits",
+    "commit-message",
+    "git-commit",
+    "auto-commit",
+    "gitmoji",
+    "developer-tools",
+    "cli",
+    "productivity",
+    "no-api-key",
+    "free",
+    "conventional",
+    "semantic-commit",
+    "commit-generator",
+    "git-hooks",
+    "dx"
+  ],
+  "author": "Zachary Lyons <zacharylyonstx@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharylyonstx/ai-commit-offline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zacharylyonstx/ai-commit-offline/issues"
+  },
+  "homepage": "https://github.com/zacharylyonstx/ai-commit-offline#readme",
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/zacharylyonstx"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "LICENSE",
+    "README.md"
+  ]
+}
